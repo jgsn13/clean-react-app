@@ -34,4 +34,7 @@ sketch
 # and uncomment the following lines
 # .pnp.*
 
+# jest
+coverage
+
 # End of https://www.toptal.com/developers/gitignore/api/react,yarn
